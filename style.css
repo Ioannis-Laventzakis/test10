@@ -14,4 +14,13 @@ p {
 h1 {
     text-align: center;
 }
+.follow-image {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+  }
+  
+  .follow-image img {
+    width: 70px; 
+    height: auto;}
 
